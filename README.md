@@ -1,7 +1,7 @@
 # Cocesna
 Proyecto desarrollado en la clase de ing. de software sobre le empresa COCESNA\
 
-Se trabajo sobre MySql con Wampserver, en PHP con ajz,bootstrap y la funcion Mail de php.
+Se trabajo sobre MySql con Wampserver, en PHP con una combinacion de css,ajax,bootstrap,javascript y la funcion Mail de php.
 
 En BsaeDatos se encuentra el script SQl para crear la base de datos utilizada.
 
